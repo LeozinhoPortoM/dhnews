@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    width: 800px;
+}
+h1{
+    color: #ec183f;
+}
+
+.espacamento{
+    margin-bottom: 60px;
+}
+
+.imgSociais{
+    text-align: center;
+}
+
+.imgPrincipal{
+    width: 100%;
+}
+
+.imgSociais img{
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    
+}
